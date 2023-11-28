@@ -1,0 +1,1 @@
+Java Directory Organizing Program ini dibuat dengan tujuan untuk dapat merapikan suatu directory dengan cara • Menghapus duplikasi file • Merapikan directory dengan melakukan tata ulang lokasi file berdasarkan ekstensi file
